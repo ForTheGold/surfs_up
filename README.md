@@ -4,7 +4,7 @@ Analysis of weather in Oahu, Hawaii
 
 ## Overview
 
-During a trip to Hawaii last year, I decided that I love to surf.  This has led me to the conclusion that I need to move to Oahu where I can spend a significant amount of my time surfing.  I came up with the idea to open a shop on Oahu called Surf n’ Shake that serves ice cream and rents surfboards to locals and tourists on Oahu.  I have performed an analysis to determine the viability of my idea which can be seen below.
+During a trip to Hawaii last year, I decided that I love to surf.  This has led me to the conclusion that I need to move to Oahu where I can spend a significant amount of my time surfing.  I came up with the idea to open a shop on Oahu called Surf nâ€™ Shake that serves ice cream and rents surfboards to locals and tourists on Oahu.  I have performed an analysis to determine the viability of my idea which can be seen below.
 
 ### Purpose
 
@@ -20,11 +20,11 @@ We would like to ensure that the shop can stay open and be profitable for a good
 
 We have started our analysis on the temperature in June and December.  Here are the results from the two months.  
   
-June
-![June Data]()
+June  
+![June Data](https://github.com/ForTheGold/surfs_up/blob/main/Resources/June.png)
 
-December
-![December Data]()
+December  
+![December Data](https://github.com/ForTheGold/surfs_up/blob/main/Resources/December.png)
 
 
 One of the main things to note is that we have slightly more records for June than we do for December, but this is not a huge difference.  It also seems that we have a sufficient amount of data to be able to draw conclusions from the data.
