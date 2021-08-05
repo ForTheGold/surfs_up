@@ -54,3 +54,11 @@ The analysis has shown that it is possible to surf in both the winter as well as
 I would add to this analysis in a number of ways.  First I would check the amount of precipitation that occurs throughout the year.  This is going to be very important as it will not only deter many people from surfing, but may actually cause the conditions to become dangerous to the point where we will need to close the shop.
 
 Additionally, I would check the wind speeds throughout the year.  This is something that could cause the waves to become so strong that beginners will no longer be able to surf.  Most of the people who rent boards are beginners so we need to make sure that we can appeal to our market.
+
+### Technologies
+* Flask
+* Numpy
+* Python
+* SQL
+* SQLAlchemy
+* HTML, CSS, BootStrap
